@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/Telemetry-Live-23/static/js/main.0ff17fc2.chunk.js",
+    "main.js.map": "/Telemetry-Live-23/static/js/main.0ff17fc2.chunk.js.map",
+    "runtime-main.js": "/Telemetry-Live-23/static/js/runtime-main.3b0999bc.js",
+    "runtime-main.js.map": "/Telemetry-Live-23/static/js/runtime-main.3b0999bc.js.map",
+    "static/js/2.8248efc8.chunk.js": "/Telemetry-Live-23/static/js/2.8248efc8.chunk.js",
+    "static/js/2.8248efc8.chunk.js.map": "/Telemetry-Live-23/static/js/2.8248efc8.chunk.js.map",
+    "index.html": "/Telemetry-Live-23/index.html",
+    "static/js/2.8248efc8.chunk.js.LICENSE.txt": "/Telemetry-Live-23/static/js/2.8248efc8.chunk.js.LICENSE.txt",
+    "static/media/cloud.1cda6baa.svg": "/Telemetry-Live-23/static/media/cloud.1cda6baa.svg",
+    "static/media/local.f38d9902.svg": "/Telemetry-Live-23/static/media/local.f38d9902.svg",
+    "static/media/logo.7c344053.png": "/Telemetry-Live-23/static/media/logo.7c344053.png",
+    "static/media/pause.48f7c4bd.svg": "/Telemetry-Live-23/static/media/pause.48f7c4bd.svg",
+    "static/media/play.1e94e6ce.svg": "/Telemetry-Live-23/static/media/play.1e94e6ce.svg",
+    "static/media/recent.40d9e006.svg": "/Telemetry-Live-23/static/media/recent.40d9e006.svg",
+    "static/media/scrollleft.7b05da38.svg": "/Telemetry-Live-23/static/media/scrollleft.7b05da38.svg",
+    "static/media/scrollright.8e3b1130.svg": "/Telemetry-Live-23/static/media/scrollright.8e3b1130.svg",
+    "static/media/stop.6959f135.svg": "/Telemetry-Live-23/static/media/stop.6959f135.svg",
+    "static/media/upload.78116883.svg": "/Telemetry-Live-23/static/media/upload.78116883.svg",
+    "static/media/zoomin.f628affa.svg": "/Telemetry-Live-23/static/media/zoomin.f628affa.svg",
+    "static/media/zoomout.dc533183.svg": "/Telemetry-Live-23/static/media/zoomout.dc533183.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b0999bc.js",
+    "static/js/2.8248efc8.chunk.js",
+    "static/js/main.0ff17fc2.chunk.js"
+  ]
+}
