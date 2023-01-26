@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "./electron/main.js",
-  "homepage": "https://ikim-2001.github.io/Telemetry-Live-23/",
+  "homepage": "http://ikim-2001.github.io/Telemetry-Live-23/",
   "dependencies": {
     "@progress/kendo-data-query": "^1.5.5",
     "@progress/kendo-drawing": "^1.15.0",
