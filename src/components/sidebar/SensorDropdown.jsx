@@ -61,7 +61,8 @@ export default class SensorDropdown extends Component {
             headers: { 'Content-Type': 'application/json',
             'Access-Control-Allow-Origin': "*"
           },
-          body: JSON.stringify(reqBody)
+          body: JSON.stringify(reqBody),
+          referrerPolicy: "unsafe-url",
           })
           .then((response) => response.json())
           .then((user) => {

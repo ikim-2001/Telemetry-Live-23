@@ -17,9 +17,11 @@ export default function Graphs(props) {
             {
               method: "POST", 
               headers: { 'Content-Type': 'application/json',
+              referrerPolicy: "unsafe-url",
               'Access-Control-Allow-Origin': "*"
             },
-            body: JSON.stringify(reqBody)
+            body: JSON.stringify(reqBody),
+            referrerPolicy: "unsafe-url",
             })
             .then((response) => response.json())
             .then((user) => {
